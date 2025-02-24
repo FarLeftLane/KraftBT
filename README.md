@@ -10,3 +10,4 @@
  KraftTestRC contains the arduino sketch / code
 
  Photo of the prototype.
+![Screenshot](https://github.com/FarLeftLane/KraftBT/PrototypeImage.jpg)
